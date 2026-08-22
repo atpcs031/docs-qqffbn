@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-4k6uaf.pulitoto47khr.lat/sitemap.xml
